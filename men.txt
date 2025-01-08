@@ -1,2 +1,4 @@
 elephant is small animal in forest
 rat is big animal in forest
+elephant is smallest animal in forest
+rat is bigest animal in forest
